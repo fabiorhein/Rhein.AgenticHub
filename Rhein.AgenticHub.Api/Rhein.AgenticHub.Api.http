@@ -1,0 +1,6 @@
+@Rhein.AgenticHub.Api_HostAddress = http://localhost:5063
+
+GET {{Rhein.AgenticHub.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

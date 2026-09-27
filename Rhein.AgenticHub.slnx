@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Rhein.AgenticHub.Api/Rhein.AgenticHub.Api.csproj" />
+  <Project Path="Rhein.AgenticHub.Application/Rhein.AgenticHub.Application.csproj" />
+  <Project Path="Rhein.AgenticHub.Domain/Rhein.AgenticHub.Domain.csproj" />
+  <Project Path="Rhein.AgenticHub.Infrastructure/Rhein.AgenticHub.Infrastructure.csproj" />
+</Solution>
